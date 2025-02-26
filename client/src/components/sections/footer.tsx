@@ -25,7 +25,7 @@ export function Footer() {
       <div className="container mx-auto px-4">
         <div className="flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-sm text-muted-foreground">
-            © 2024 InternAI. All rights reserved.
+            © 2025 InternAI. All rights reserved.
           </p>
 
           <div className="flex items-center gap-4">
